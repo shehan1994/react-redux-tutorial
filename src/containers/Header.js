@@ -3,11 +3,11 @@ import React from 'react'
 
 function Header() {
     return (
-        <div className='ui fixed menu'>
-            <div className='ui container center'>
-                <h1>Ewlin Shoes</h1>
+        <div className="ui fixed menu">
+            <div className="ui container center">
+                <h1>Ewlin Shoes </h1>
             </div>
-        </div>
+        </div> 
     )
 }
 
